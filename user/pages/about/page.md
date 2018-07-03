@@ -8,4 +8,5 @@ This website is meant as an all in one blog combining all of my interests. Shoul
 
 Have a great day, and remember to learn something new today and every day!
 
-- Cheers Kasper
+Cheers, 
+Kasper
